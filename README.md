@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kira·H 
+- 👋 Hi, I’m Kira
 - 👀 A Senior Staff Recruiter at Tencent.
 - 🌱 I’m interested in LLM、GenAI、search/recommendation algorithms.
 - 💞️ Let's have a chat.
